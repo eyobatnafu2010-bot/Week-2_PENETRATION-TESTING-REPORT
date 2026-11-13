@@ -1,5 +1,5 @@
 # Week-2_PENETRATION-TESTING-REPORT
-[11/13/2026 10:36 PM] Mia cara: Cybersecurity & Ethical Hacking – Week 2 Practical Lab
+Cybersecurity & Ethical Hacking – Week 2 Practical Lab
 
 Introduction
 
